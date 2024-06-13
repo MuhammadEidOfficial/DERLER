@@ -1,2 +1,2 @@
-# DERLER
+# DERSLER
 Derslerin notları
